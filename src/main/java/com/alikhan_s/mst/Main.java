@@ -67,6 +67,34 @@ public class Main {
             ResultWriter.writeResults(results, outputPath);
             System.out.println("\n[0] All results successfully written to " + outputPath);
 
+            // --- Дополнительно: Сохранение результатов в CSV ---
+            try (java.io.PrintWriter writer = new java.io.PrintWriter("data/results.csv")) {
+                writer.println("graph_id;vertices;edges;algorithm;total_cost;operations_count;execution_time_ms");
+
+                for (OutputResult result : results) {
+                    writer.printf("%s;%d;%d;Prim;%.2f;%d;%.2f%n",
+                            result.getGraphId(),
+                            result.getVertices(),
+                            result.getEdges(),
+                            result.getPrimResult().getTotalCost(),
+                            result.getPrimResult().getOperationsCount(),
+                            result.getPrimResult().getExecutionTimeMs());
+
+                    writer.printf("%s;%d;%d;Kruskal;%.2f;%d;%.2f%n",
+                            result.getGraphId(),
+                            result.getVertices(),
+                            result.getEdges(),
+                            result.getKruskalResult().getTotalCost(),
+                            result.getKruskalResult().getOperationsCount(),
+                            result.getKruskalResult().getExecutionTimeMs());
+                }
+
+                System.out.println("[0] CSV report saved to data/results.csv");
+            } catch (Exception e) {
+                System.err.println("[!] Error writing CSV file: " + e.getMessage());
+            }
+
+
         } catch (Exception e) {
             System.err.println("[!] Error occurred while running MST experiments:");
             e.printStackTrace();

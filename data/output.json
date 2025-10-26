@@ -36,7 +36,7 @@
           }
         ],
         "totalCost": 33.0,
-        "executionTimeMs": 3.7064,
+        "executionTimeMs": 4.5479,
         "operationsCount": 30
       },
       "kruskal_result": {
@@ -71,7 +71,7 @@
           }
         ],
         "totalCost": 33.0,
-        "executionTimeMs": 3.0184,
+        "executionTimeMs": 3.808,
         "operationsCount": 39
       }
     },
@@ -146,7 +146,7 @@
           }
         ],
         "totalCost": 81.0,
-        "executionTimeMs": 0.2684,
+        "executionTimeMs": 0.1233,
         "operationsCount": 75
       },
       "kruskal_result": {
@@ -216,7 +216,7 @@
           }
         ],
         "totalCost": 81.0,
-        "executionTimeMs": 0.1486,
+        "executionTimeMs": 0.0485,
         "operationsCount": 149
       }
     },
@@ -361,7 +361,7 @@
           }
         ],
         "totalCost": 313.0,
-        "executionTimeMs": 0.093,
+        "executionTimeMs": 0.0974,
         "operationsCount": 90
       },
       "kruskal_result": {
@@ -501,7 +501,7 @@
           }
         ],
         "totalCost": 313.0,
-        "executionTimeMs": 0.0591,
+        "executionTimeMs": 0.067,
         "operationsCount": 231
       }
     },
@@ -681,7 +681,7 @@
           }
         ],
         "totalCost": 570.0,
-        "executionTimeMs": 0.0784,
+        "executionTimeMs": 0.1026,
         "operationsCount": 90
       },
       "kruskal_result": {
@@ -856,7 +856,7 @@
           }
         ],
         "totalCost": 570.0,
-        "executionTimeMs": 0.0562,
+        "executionTimeMs": 0.0665,
         "operationsCount": 253
       }
     },
@@ -1071,7 +1071,7 @@
           }
         ],
         "totalCost": 615.0,
-        "executionTimeMs": 0.0659,
+        "executionTimeMs": 0.087,
         "operationsCount": 90
       },
       "kruskal_result": {
@@ -1281,7 +1281,7 @@
           }
         ],
         "totalCost": 615.0,
-        "executionTimeMs": 0.055,
+        "executionTimeMs": 0.1397,
         "operationsCount": 245
       }
     },
@@ -2413,7 +2413,7 @@
           }
         ],
         "totalCost": 2298.0,
-        "executionTimeMs": 0.9953,
+        "executionTimeMs": 1.494,
         "operationsCount": 966
       },
       "kruskal_result": {
@@ -3540,7 +3540,7 @@
           }
         ],
         "totalCost": 2298.0,
-        "executionTimeMs": 0.5993,
+        "executionTimeMs": 0.6264,
         "operationsCount": 3950
       }
     },
@@ -4315,7 +4315,7 @@
           }
         ],
         "totalCost": 1580.0,
-        "executionTimeMs": 0.2864,
+        "executionTimeMs": 0.6595,
         "operationsCount": 660
       },
       "kruskal_result": {
@@ -5085,7 +5085,7 @@
           }
         ],
         "totalCost": 1580.0,
-        "executionTimeMs": 0.3172,
+        "executionTimeMs": 0.3408,
         "operationsCount": 2466
       }
     },
@@ -6364,7 +6364,7 @@
           }
         ],
         "totalCost": 2730.0,
-        "executionTimeMs": 0.3854,
+        "executionTimeMs": 1.0292,
         "operationsCount": 1092
       },
       "kruskal_result": {
@@ -7638,7 +7638,7 @@
           }
         ],
         "totalCost": 2730.0,
-        "executionTimeMs": 0.5465,
+        "executionTimeMs": 0.5708,
         "operationsCount": 4510
       }
     },
@@ -8833,7 +8833,7 @@
           }
         ],
         "totalCost": 2391.0,
-        "executionTimeMs": 0.2883,
+        "executionTimeMs": 0.8126,
         "operationsCount": 1020
       },
       "kruskal_result": {
@@ -10023,7 +10023,7 @@
           }
         ],
         "totalCost": 2391.0,
-        "executionTimeMs": 0.4818,
+        "executionTimeMs": 0.5825,
         "operationsCount": 3867
       }
     },
@@ -10413,7 +10413,7 @@
           }
         ],
         "totalCost": 894.0,
-        "executionTimeMs": 0.0747,
+        "executionTimeMs": 0.0974,
         "operationsCount": 330
       },
       "kruskal_result": {
@@ -10798,7 +10798,7 @@
           }
         ],
         "totalCost": 894.0,
-        "executionTimeMs": 0.1346,
+        "executionTimeMs": 0.1574,
         "operationsCount": 1065
       }
     },
@@ -12546,7 +12546,7 @@
           }
         ],
         "totalCost": 3379.0,
-        "executionTimeMs": 0.3009,
+        "executionTimeMs": 0.5048,
         "operationsCount": 1494
       },
       "kruskal_result": {
@@ -14289,7 +14289,7 @@
           }
         ],
         "totalCost": 3379.0,
-        "executionTimeMs": 0.4086,
+        "executionTimeMs": 0.5441,
         "operationsCount": 5880
       }
     },
@@ -15519,7 +15519,7 @@
           }
         ],
         "totalCost": 2580.0,
-        "executionTimeMs": 0.215,
+        "executionTimeMs": 0.2526,
         "operationsCount": 1050
       },
       "kruskal_result": {
@@ -16744,7 +16744,7 @@
           }
         ],
         "totalCost": 2580.0,
-        "executionTimeMs": 0.2876,
+        "executionTimeMs": 0.3699,
         "operationsCount": 4199
       }
     },
@@ -16994,7 +16994,7 @@
           }
         ],
         "totalCost": 474.0,
-        "executionTimeMs": 0.04,
+        "executionTimeMs": 0.0485,
         "operationsCount": 210
       },
       "kruskal_result": {
@@ -17239,7 +17239,7 @@
           }
         ],
         "totalCost": 474.0,
-        "executionTimeMs": 0.059,
+        "executionTimeMs": 0.0859,
         "operationsCount": 660
       }
     },
@@ -18028,7 +18028,7 @@
           }
         ],
         "totalCost": 1755.0,
-        "executionTimeMs": 0.1388,
+        "executionTimeMs": 0.1507,
         "operationsCount": 672
       },
       "kruskal_result": {
@@ -18812,7 +18812,7 @@
           }
         ],
         "totalCost": 1755.0,
-        "executionTimeMs": 0.1758,
+        "executionTimeMs": 0.2404,
         "operationsCount": 2543
       }
     },
@@ -19391,7 +19391,7 @@
           }
         ],
         "totalCost": 1164.0,
-        "executionTimeMs": 0.1175,
+        "executionTimeMs": 0.1994,
         "operationsCount": 492
       },
       "kruskal_result": {
@@ -19965,7 +19965,7 @@
           }
         ],
         "totalCost": 1164.0,
-        "executionTimeMs": 0.132,
+        "executionTimeMs": 0.3868,
         "operationsCount": 1756
       }
     },
@@ -22917,7 +22917,7 @@
           }
         ],
         "totalCost": 9189.0,
-        "executionTimeMs": 0.3096,
+        "executionTimeMs": 0.5741,
         "operationsCount": 1515
       },
       "kruskal_result": {
@@ -25864,7 +25864,7 @@
           }
         ],
         "totalCost": 9189.0,
-        "executionTimeMs": 0.4536,
+        "executionTimeMs": 0.9034,
         "operationsCount": 6430
       }
     },
@@ -29782,7 +29782,7 @@
           }
         ],
         "totalCost": 12669.0,
-        "executionTimeMs": 0.446,
+        "executionTimeMs": 0.6261,
         "operationsCount": 2010
       },
       "kruskal_result": {
@@ -33695,7 +33695,7 @@
           }
         ],
         "totalCost": 12669.0,
-        "executionTimeMs": 0.6273,
+        "executionTimeMs": 0.7947,
         "operationsCount": 8815
       }
     },
@@ -38327,7 +38327,7 @@
           }
         ],
         "totalCost": 14693.0,
-        "executionTimeMs": 0.5272,
+        "executionTimeMs": 0.9627,
         "operationsCount": 2379
       },
       "kruskal_result": {
@@ -42954,7 +42954,7 @@
           }
         ],
         "totalCost": 14693.0,
-        "executionTimeMs": 0.6771,
+        "executionTimeMs": 0.92,
         "operationsCount": 10512
       }
     },
@@ -48825,7 +48825,7 @@
           }
         ],
         "totalCost": 18523.0,
-        "executionTimeMs": 0.6489,
+        "executionTimeMs": 1.0921,
         "operationsCount": 3015
       },
       "kruskal_result": {
@@ -54691,7 +54691,7 @@
           }
         ],
         "totalCost": 18523.0,
-        "executionTimeMs": 0.8094,
+        "executionTimeMs": 1.272,
         "operationsCount": 13517
       }
     },
@@ -60457,7 +60457,7 @@
           }
         ],
         "totalCost": 17968.0,
-        "executionTimeMs": 0.6625,
+        "executionTimeMs": 1.4413,
         "operationsCount": 2961
       },
       "kruskal_result": {
@@ -66218,7 +66218,7 @@
           }
         ],
         "totalCost": 17968.0,
-        "executionTimeMs": 0.8483,
+        "executionTimeMs": 1.2552,
         "operationsCount": 13264
       }
     },
@@ -68554,7 +68554,7 @@
           }
         ],
         "totalCost": 7461.0,
-        "executionTimeMs": 0.2446,
+        "executionTimeMs": 0.5018,
         "operationsCount": 1197
       },
       "kruskal_result": {
@@ -70885,7 +70885,7 @@
           }
         ],
         "totalCost": 7461.0,
-        "executionTimeMs": 0.3136,
+        "executionTimeMs": 0.4817,
         "operationsCount": 4916
       }
     },
@@ -75377,7 +75377,7 @@
           }
         ],
         "totalCost": 14026.0,
-        "executionTimeMs": 0.4818,
+        "executionTimeMs": 1.0482,
         "operationsCount": 2307
       },
       "kruskal_result": {
@@ -79864,7 +79864,7 @@
           }
         ],
         "totalCost": 14026.0,
-        "executionTimeMs": 0.6743,
+        "executionTimeMs": 1.11,
         "operationsCount": 10236
       }
     },
@@ -85140,7 +85140,7 @@
           }
         ],
         "totalCost": 15966.0,
-        "executionTimeMs": 0.5862,
+        "executionTimeMs": 1.0593,
         "operationsCount": 2709
       },
       "kruskal_result": {
@@ -90411,7 +90411,7 @@
           }
         ],
         "totalCost": 15966.0,
-        "executionTimeMs": 0.6707,
+        "executionTimeMs": 1.0727,
         "operationsCount": 12046
       }
     },
@@ -93146,7 +93146,7 @@
           }
         ],
         "totalCost": 8605.0,
-        "executionTimeMs": 0.2975,
+        "executionTimeMs": 0.6348,
         "operationsCount": 1404
       },
       "kruskal_result": {
@@ -95876,7 +95876,7 @@
           }
         ],
         "totalCost": 8605.0,
-        "executionTimeMs": 0.3145,
+        "executionTimeMs": 0.475,
         "operationsCount": 5904
       }
     },
@@ -100025,7 +100025,7 @@
           }
         ],
         "totalCost": 12771.0,
-        "executionTimeMs": 0.5787,
+        "executionTimeMs": 0.9234,
         "operationsCount": 2130
       },
       "kruskal_result": {
@@ -104169,7 +104169,7 @@
           }
         ],
         "totalCost": 12771.0,
-        "executionTimeMs": 0.4901,
+        "executionTimeMs": 0.7203,
         "operationsCount": 9397
       }
     },
@@ -116788,7 +116788,7 @@
           }
         ],
         "totalCost": 45466.0,
-        "executionTimeMs": 1.3935,
+        "executionTimeMs": 2.4578,
         "operationsCount": 5403
       },
       "kruskal_result": {
@@ -129402,7 +129402,7 @@
           }
         ],
         "totalCost": 45466.0,
-        "executionTimeMs": 1.3467,
+        "executionTimeMs": 2.0471,
         "operationsCount": 24597
       }
     },
@@ -140614,7 +140614,7 @@
           }
         ],
         "totalCost": 40799.0,
-        "executionTimeMs": 1.2248,
+        "executionTimeMs": 1.9441,
         "operationsCount": 4800
       },
       "kruskal_result": {
@@ -151821,7 +151821,7 @@
           }
         ],
         "totalCost": 40799.0,
-        "executionTimeMs": 1.1951,
+        "executionTimeMs": 1.5651,
         "operationsCount": 21841
       }
     },
@@ -165280,7 +165280,7 @@
           }
         ],
         "totalCost": 46743.0,
-        "executionTimeMs": 1.4009,
+        "executionTimeMs": 1.7385,
         "operationsCount": 5763
       },
       "kruskal_result": {
@@ -178734,7 +178734,7 @@
           }
         ],
         "totalCost": 46743.0,
-        "executionTimeMs": 1.4278,
+        "executionTimeMs": 1.7883,
         "operationsCount": 26239
       }
     }

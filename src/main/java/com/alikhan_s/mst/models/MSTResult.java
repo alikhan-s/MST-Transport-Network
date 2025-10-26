@@ -20,6 +20,22 @@ public class MSTResult {
         this.operationsCount = operationsCount;
     }
 
+    public void setMstEdges(List<Edge> mstEdges) {
+        this.mstEdges = mstEdges;
+    }
+
+    public void setTotalCost(double totalCost) {
+        this.totalCost = totalCost;
+    }
+
+    public void setExecutionTimeMs(double executionTimeMs) {
+        this.executionTimeMs = executionTimeMs;
+    }
+
+    public void setOperationsCount(long operationsCount) {
+        this.operationsCount = operationsCount;
+    }
+
     public List<Edge> getMstEdges() {
         return mstEdges;
     }

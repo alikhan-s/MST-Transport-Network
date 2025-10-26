@@ -29,6 +29,9 @@ public class Edge implements Comparable<Edge> {
         this.toIndex = toIndex;
     }
 
+    public void setFromIndex(int fromIndex) { this.fromIndex = fromIndex; }
+    public void setToIndex(int toIndex) { this.toIndex = toIndex; }
+
     public String getFrom() { return from; }
     public String getTo() { return to; }
     public double getWeight() { return weight; }
