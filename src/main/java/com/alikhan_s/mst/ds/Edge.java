@@ -11,11 +11,30 @@ public class Edge implements Comparable<Edge> {
     public String to;
     public double weight;
 
+    // Optional: indexes (used in tests or internal mapping)
+    private int fromIndex;
+    private int toIndex;
+
     public Edge(String from, String to, double weight) {
         this.from = from;
         this.to = to;
         this.weight = weight;
     }
+
+    public Edge(String from, String to, double weight, int fromIndex, int toIndex) {
+        this.from = from;
+        this.to = to;
+        this.weight = weight;
+        this.fromIndex = fromIndex;
+        this.toIndex = toIndex;
+    }
+
+    public String getFrom() { return from; }
+    public String getTo() { return to; }
+    public double getWeight() { return weight; }
+
+    public int getFromIndex() { return fromIndex; }
+    public int getToIndex() { return toIndex; }
 
     @Override
     public int compareTo(Edge other) {

@@ -101,7 +101,7 @@ public class KruskalAlgorithm {
         double timeMs = (endTime - startTime) / 1_000_000.0;
 
         // Compose result.
-        MSTResult result = new MSTResult(mst, totalCost, operations, timeMs);
+        MSTResult result = new MSTResult(mst, totalCost, timeMs, operations);
         return result;
     }
 }

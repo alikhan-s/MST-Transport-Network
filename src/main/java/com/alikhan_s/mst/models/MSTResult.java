@@ -8,20 +8,37 @@ import java.util.List;
  * Includes the MST edges, total cost, number of operations, and execution time.
  */
 public class MSTResult {
-    public List<Edge> mstEdges;
-    public double totalCost;
-    public long operationsCount;
-    public double executionTimeMs;
+    private List<Edge> mstEdges;
+    private double totalCost;
+    private double executionTimeMs;
+    private long operationsCount;
 
-    public MSTResult(List<Edge> mstEdges, double totalCost, long operationsCount, double executionTimeMs) {
+    public MSTResult(List<Edge> mstEdges, double totalCost, double executionTimeMs, long operationsCount) {
         this.mstEdges = mstEdges;
         this.totalCost = totalCost;
-        this.operationsCount = operationsCount;
         this.executionTimeMs = executionTimeMs;
+        this.operationsCount = operationsCount;
+    }
+
+    public List<Edge> getMstEdges() {
+        return mstEdges;
+    }
+
+    public double getTotalCost() {
+        return totalCost;
+    }
+
+    public double getExecutionTimeMs() {
+        return executionTimeMs;
+    }
+
+    public long getOperationsCount() {
+        return operationsCount;
     }
 
     @Override
     public String toString() {
-        return String.format("MSTResult(totalCost=%.2f, operations=%d, time=%.3f ms)", totalCost, operationsCount, executionTimeMs);
+        return String.format("MSTResult[cost=%.2f, edges=%d, time=%.3f ms, ops=%d]",
+                totalCost, mstEdges.size(), executionTimeMs, operationsCount);
     }
 }

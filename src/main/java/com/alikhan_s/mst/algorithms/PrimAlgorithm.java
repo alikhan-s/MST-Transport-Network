@@ -85,7 +85,7 @@ public class PrimAlgorithm {
         // Combine metrics
         operations += pqOperations.get() + loopIterations.get();
 
-        return new MSTResult(mstEdges, totalCost, operations, timeMs);
+        return new MSTResult(mstEdges, totalCost, timeMs, operations);
     }
 
     /**
